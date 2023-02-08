@@ -1,0 +1,13 @@
+.link {
+	border-style: solid;
+	border-color: rgb(75, 178, 71);
+	border-width: 6px 20px;
+	display: inline-block;
+	border-radius: 4px;
+	background: rgb(75, 178, 71);
+	font-size: 18px;
+	font-family: Tahoma;
+	font-weight: normal;
+	color: rgb(255, 255, 255);
+	text-decoration: none;
+}
