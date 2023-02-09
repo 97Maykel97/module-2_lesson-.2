@@ -35,3 +35,11 @@ body {
 	color: rgb(255, 255, 255);
 	text-decoration: none;
 }
+
+.link:hover,
+.link:focus,
+.link:active {
+	border-color: rgb(255, 255, 255);
+	background: rgb(255, 255, 255);
+	color: rgb(75, 178, 71);
+}
